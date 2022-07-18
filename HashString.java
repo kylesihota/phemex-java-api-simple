@@ -41,11 +41,4 @@ public class HashString {
         return hmac;
     }
 
-    public HashString(){
-    }
-
-    public static void main(String[] args){
-
-    }
-
 }
