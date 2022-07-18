@@ -150,11 +150,4 @@ public class WebClient {
 
 
     }
-
-    public WebClient() {
-
-    }
-
-    public static void main(String[] args) throws Exception {
-    }
 }
